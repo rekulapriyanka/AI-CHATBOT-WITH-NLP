@@ -4,7 +4,7 @@ COMPANY: CODTECH IT SOLUTIONS
 
 NAME: R.PRIYANKA
 
-INTERN ID:CT04DZ1347
+INTERN ID: CT04DZ1347
 
 DOMAIN NAME: PYTHON PROGRAMMING
 
@@ -28,6 +28,6 @@ They are commonly used for customer support, virtual assistants, e-commerce, edu
 
 An AI chatbot with NLP can simulate intelligent conversation by understanding user input, detecting intent, and generating contextually appropriate responses. With Python and libraries like NLTK, spaCy, and scikit-learn, you can build both simple rule-based bots and advanced AI-driven conversational systems. These chatbots can be integrated into websites, apps, or messaging platforms, helping businesses and users automate communication effectively.
 
-OUTPUT
+OUTPUT:
 
 <img width="880" height="646" alt="Image" src="https://github.com/user-attachments/assets/43758148-d1fd-49a0-a40b-bbe85fb502d0" />
